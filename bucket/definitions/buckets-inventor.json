@@ -1,0 +1,23 @@
+{
+  "bucket_data": {
+    "buckets": {
+      "inventor": {
+        "attributes": {
+          "collection": "person"
+        },
+        "created": "1464727140256",
+        "id": "inventor",
+        "labels": {
+          "en": {
+            "label": "Inventor",
+            "labelp": "Inventors"
+          }
+        },
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "records"
+      }
+    }
+  }
+}
