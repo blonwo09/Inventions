@@ -1,0 +1,12 @@
+{
+   "bundle_name": "inventions",
+   "icon": "",
+   "icon_color": "#999999",
+   "id": "voy.inventions",
+   "page_banner": "",
+   "schema_version": "0",
+   "theme": "",
+   "title": "Inventions",
+   "vendor": "voy",
+   "version": "0.1"
+}
