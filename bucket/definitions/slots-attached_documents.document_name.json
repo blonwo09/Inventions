@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "slots": {
+      "attached_documents.document_name": {
+        "attributes": { },
+        "bucket": "attached_documents",
+        "created": "1465068264345",
+        "labels": {
+          "en": {
+            "label": "Document Name",
+            "labelp": "Document Names"
+          }
+        },
+        "name": "document_name",
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "string"
+      }
+    }
+  }
+}

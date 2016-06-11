@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.invention_keywords": {
+        "attributes": {
+          "placeholder_text": "Please enter keywords (Use “;” to separate keywords,  i.e. DTV; LCD; CMOS; Wireless)"
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.invention_keywords",
+        "labels": {
+          "en": {
+            "labelp": "Invention Keywordses",
+            "label": "Invention Keywords"
+          }
+        },
+        "name": "invention_keywords",
+        "type": "string"
+      }
+    }
+  }
+}

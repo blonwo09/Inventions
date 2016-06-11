@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "slots": {
+      "related_invention.related_invention_title": {
+        "attributes": { },
+        "bucket": "related_invention",
+        "created": "1465068668231",
+        "labels": {
+          "en": {
+            "label": "Related Invention Title",
+            "labelp": "Related Invention Titles"
+          }
+        },
+        "name": "related_invention_title",
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "string"
+      }
+    }
+  }
+}

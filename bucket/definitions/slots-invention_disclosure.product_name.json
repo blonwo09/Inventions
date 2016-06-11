@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.product_name": {
+        "attributes": {
+          "placeholder_text": "If this invention is related to a product, please type in the Product Name (If not, or if you don’t know, please leave blank)"
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.product_name",
+        "labels": {
+          "en": {
+            "labelp": "Product Name",
+            "label": "Product Name"
+          }
+        },
+        "name": "product_name",
+        "type": "string"
+      }
+    }
+  }
+}

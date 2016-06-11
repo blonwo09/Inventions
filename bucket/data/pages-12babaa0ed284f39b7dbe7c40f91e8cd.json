@@ -1,0 +1,55 @@
+{
+  "bucket_data": {
+    "pages": {
+      "12babaa0ed284f39b7dbe7c40f91e8cd": {
+        "created": "1465054572316",
+        "id": "12babaa0ed284f39b7dbe7c40f91e8cd",
+        "layout": {
+          "component_7f6fa5456a60b4095e4bba1a264cfa4a": {
+            "type": "component",
+            "component": "static_html",
+            "id": "component_7f6fa5456a60b4095e4bba1a264cfa4a",
+            "name": "component_7f6fa5456a60b4095e4bba1a264cfa4a",
+            "needs_subpage_target": false,
+            "attributes": {
+              "html": "<html>\n<p><b>Dear Inventor,</b></p>\n\n<p>Thank you for taking the time to fill out your invention disclosure.  If the invention disclosure meets all requirements, including for novelty and importance to Sony business, it will be filed as a patent application.</p>\n\n<p>The process for filling out the invention disclosure is simple:</p>\n\n<p>1.  First, please fill out information about your invention in the next tab:  \"New Invention Disclosure\".  To see a made up sample of a completed invention disclosure, please look in tab \"Sample Invention Disclosure\".\n(You only need to fill out the light green fields)</p>\n\n<p>2.  Then please email this completed Excel file, along with any documents you want to add to better describe your invention, to the Intellectual Property Department (IPD).</p>\n<p>***Send email to:  <font color=\"blue\"><a href=\"mailto:Inventions@am.sony.com<\">Inventions@am.sony.com</a></font></p>\n\n\n<p><b>Questions:</b></p>\n\n<p>If you have any questions, please contact any of the following IPD personnel:</p>\n<p>   i.  Hazem Elabbadi - Senior Manager - <font color=\"blue\"><a href=\"mailto:Hazem.Elabbadi@am.sony.com\">Hazem.Elabbadi@am.sony.com</a></font></p>\n    <p> ii.  Carrie Merzbacher - Administrative Manager - <font color=\"blue\"><a href=\"mailto:Carrie.Merzbacher@am.sony.com\">Carrie.Merzbacher@am.sony.com</a></font></p>\n    <p>iii.  Charla J. Donovan - Patent Secretary - <font color=\"blue\"><a href=\"mailto:Charla.J.Donovan@am.sony.com\">Charla.J.Donovan@am.sony.com</a></font></p>\n</html>",
+              "_style": ""
+            },
+            "h": "100%",
+            "w": "86%"
+          },
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_9863b686cbd4146d737e21feeedbedd6",
+              "component_7f6fa5456a60b4095e4bba1a264cfa4a"
+            ]
+          },
+          "component_9863b686cbd4146d737e21feeedbedd6": {
+            "type": "component",
+            "component": "navigator",
+            "id": "component_9863b686cbd4146d737e21feeedbedd6",
+            "name": "component_9863b686cbd4146d737e21feeedbedd6",
+            "needs_subpage_target": true,
+            "attributes": {
+              "navigator": "7a2f7902f9084d3aa81fedc0abfd3a9c",
+              "name": "Inventions",
+              "type": "menu",
+              "_style": ""
+            },
+            "w": "14%",
+            "h": "100%"
+          }
+        },
+        "name": "home",
+        "owner": "00000000000000000000000000000000",
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "template": ""
+      }
+    }
+  }
+}

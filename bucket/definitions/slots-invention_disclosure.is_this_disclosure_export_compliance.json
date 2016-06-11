@@ -1,0 +1,31 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.is_this_disclosure_export_compliance": {
+        "attributes": {
+          "choices": [
+            {
+              "label": "Yes",
+              "value": "Yes"
+            },
+            {
+              "label": "No",
+              "value": "No"
+            }
+          ],
+          "none_option": "1"
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.is_this_disclosure_export_compliance",
+        "labels": {
+          "en": {
+            "labelp": "Is this disclosure Export Compliance",
+            "label": "Is this disclosure Export Compliance"
+          }
+        },
+        "name": "is_this_disclosure_export_compliance",
+        "type": "choice"
+      }
+    }
+  }
+}

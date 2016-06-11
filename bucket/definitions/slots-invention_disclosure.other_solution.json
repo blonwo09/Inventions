@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.other_solution": {
+        "attributes": {
+          "placeholder_text": "How does this invention compare to other solutions to the problem it solves, explain why and how this invention is a better solution."
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.other_solution",
+        "labels": {
+          "en": {
+            "labelp": "Proposed Solution by Others",
+            "label": "Proposed Solution by Others"
+          }
+        },
+        "name": "other_solution",
+        "type": "big_string"
+      }
+    }
+  }
+}

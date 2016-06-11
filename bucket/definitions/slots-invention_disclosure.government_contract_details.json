@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.government_contract_details": {
+        "attributes": {
+          "placeholder_text": "If yes, please elaborate. Please provide the government contract details if available."
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.government_contract_details",
+        "labels": {
+          "en": {
+            "labelp": "Government Contract Details ",
+            "label": "Government Contract Details "
+          }
+        },
+        "name": "government_contract_details",
+        "type": "big_string"
+      }
+    }
+  }
+}

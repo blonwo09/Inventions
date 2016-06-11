@@ -1,0 +1,31 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.model_tested": {
+        "attributes": {
+          "choices": [
+            {
+              "label": "Yes",
+              "value": "Yes"
+            },
+            {
+              "label": "No",
+              "value": "No"
+            }
+          ],
+          "none_option": "1"
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.model_tested",
+        "labels": {
+          "en": {
+            "labelp": "Working Model Tested?",
+            "label": "Working Model Tested?"
+          }
+        },
+        "name": "model_tested",
+        "type": "choice"
+      }
+    }
+  }
+}

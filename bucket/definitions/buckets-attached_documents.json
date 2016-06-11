@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "buckets": {
+      "attached_documents": {
+        "attributes": { },
+        "created": "1465068234147",
+        "id": "attached_documents",
+        "labels": {
+          "en": {
+            "label": "Attached Documents",
+            "labelp": "Attached Documentses"
+          }
+        },
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "records"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.export_compliance_number": {
+        "attributes": { },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.export_compliance_number",
+        "labels": {
+          "en": {
+            "labelp": "Export Compliance Number",
+            "label": "Export Compliance Number"
+          }
+        },
+        "name": "export_compliance_number",
+        "type": "string"
+      }
+    }
+  }
+}

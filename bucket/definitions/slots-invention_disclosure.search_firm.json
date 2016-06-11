@@ -1,0 +1,19 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.search_firm": {
+        "attributes": { },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.search_firm",
+        "labels": {
+          "en": {
+            "labelp": "Search Firm (IP.com or EVS)",
+            "label": "Search Firm (IP.com or EVS)"
+          }
+        },
+        "name": "search_firm",
+        "type": "string"
+      }
+    }
+  }
+}

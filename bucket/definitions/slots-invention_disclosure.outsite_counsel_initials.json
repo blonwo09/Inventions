@@ -1,0 +1,19 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.outsite_counsel_initials": {
+        "attributes": { },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.outsite_counsel_initials",
+        "labels": {
+          "en": {
+            "labelp": "OC Initialses",
+            "label": "OC Initials"
+          }
+        },
+        "name": "outsite_counsel_initials",
+        "type": "string"
+      }
+    }
+  }
+}

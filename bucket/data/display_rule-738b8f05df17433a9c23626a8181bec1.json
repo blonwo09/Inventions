@@ -1,0 +1,24 @@
+{
+  "bucket_data": {
+    "display_rule": {
+      "738b8f05df17433a9c23626a8181bec1": {
+        "active": "1",
+        "bucket": "invention_disclosure",
+        "created": "1465341804972",
+        "description": "Manager Evaluation",
+        "hidden": "[]",
+        "id": "738b8f05df17433a9c23626a8181bec1",
+        "mandatory": "[[[\"status\",\"eq\",\"Manager Review\",\"Manager Review\"]]]",
+        "order": "10",
+        "owner": "00000000000000000000000000000000",
+        "readonly": "[]",
+        "schema_version": "0",
+        "should_hidden": "0",
+        "should_mandatory": "1",
+        "should_readonly": "0",
+        "slot": "economic_value_assessment",
+        "system_updated": "0"
+      }
+    }
+  }
+}

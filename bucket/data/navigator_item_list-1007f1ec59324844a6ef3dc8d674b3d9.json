@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "navigator_item_list": {
+      "1007f1ec59324844a6ef3dc8d674b3d9": {
+        "bucket": "group",
+        "condition": "[[[\"application\",\"eq\",\"Invention Disclosure\",\"Invention Disclosure\"]]]",
+        "created": "1465255334597",
+        "icon": "",
+        "id": "1007f1ec59324844a6ef3dc8d674b3d9",
+        "label": "Groups",
+        "order": "6",
+        "owner": "00000000000000000000000000000000",
+        "parent": "7a2f7902f9084d3aa81fedc0abfd3a9c",
+        "schema_version": "0",
+        "sort_by": "",
+        "sort_direction": "ascending",
+        "system_updated": "0"
+      }
+    }
+  }
+}

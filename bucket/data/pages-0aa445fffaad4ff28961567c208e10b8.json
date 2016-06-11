@@ -1,0 +1,48 @@
+{
+  "bucket_data": {
+    "pages": {
+      "0aa445fffaad4ff28961567c208e10b8": {
+        "created": "1465065889193",
+        "id": "0aa445fffaad4ff28961567c208e10b8",
+        "layout": {
+          "component_b9169265960be8b5334b7de0158e8803": {
+            "type": "component",
+            "component": "list",
+            "id": "component_b9169265960be8b5334b7de0158e8803",
+            "name": "component_b9169265960be8b5334b7de0158e8803",
+            "needs_subpage_target": false,
+            "attributes": {
+              "bucket": "slots",
+              "columns": [
+                "name",
+                "type",
+                "bundle",
+                "updated",
+                "created"
+              ],
+              "inline_details": "true",
+              "force_condition": "[]",
+              "_style": ""
+            },
+            "w": "100%",
+            "h": "100%"
+          },
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_b9169265960be8b5334b7de0158e8803"
+            ]
+          }
+        },
+        "name": "list.bucket_to_buckets.slots",
+        "owner": "00000000000000000000000000000000",
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "template": ""
+      }
+    }
+  }
+}

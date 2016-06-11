@@ -1,0 +1,19 @@
+{
+  "bucket_data": {
+    "slots": {
+      "inventor.global_id": {
+        "attributes": { },
+        "bucket": "inventor",
+        "id": "inventor.global_id",
+        "labels": {
+          "en": {
+            "labelp": "Global ID",
+            "label": "Global ID"
+          }
+        },
+        "name": "global_id",
+        "type": "string"
+      }
+    }
+  }
+}

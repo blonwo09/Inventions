@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.reasons_for_noncompliance": {
+        "attributes": {
+          "default": "Only if Non-Compliant"
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.reasons_for_noncompliance",
+        "labels": {
+          "en": {
+            "labelp": "Reasons for Non-Compliance",
+            "label": "Reasons for Non-Compliance"
+          }
+        },
+        "name": "reasons_for_noncompliance",
+        "type": "big_string"
+      }
+    }
+  }
+}

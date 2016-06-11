@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.first_attorney_date_completed": {
+        "attributes": {
+          "format_string": "MM/DD/YYYY"
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.first_attorney_date_completed",
+        "labels": {
+          "en": {
+            "labelp": "Date Completeds",
+            "label": "Date Completed"
+          }
+        },
+        "name": "first_attorney_date_completed",
+        "type": "date_time"
+      }
+    }
+  }
+}

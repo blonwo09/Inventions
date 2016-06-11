@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.assignment_group": {
+        "attributes": {
+          "bucket_name": "group"
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.assignment_group",
+        "labels": {
+          "en": {
+            "labelp": "Group",
+            "label": "Group"
+          }
+        },
+        "name": "assignment_group",
+        "type": "choice"
+      }
+    }
+  }
+}

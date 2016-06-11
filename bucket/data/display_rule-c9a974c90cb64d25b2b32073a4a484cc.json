@@ -1,0 +1,24 @@
+{
+  "bucket_data": {
+    "display_rule": {
+      "c9a974c90cb64d25b2b32073a4a484cc": {
+        "active": "1",
+        "bucket": "invention_disclosure",
+        "created": "1465340886045",
+        "description": "Date Sold Mandatory",
+        "hidden": "[[[\"sold_elsewhere\",\"eq\",\"\",\"- None -\"]],\"OR\",[[\"sold_elsewhere\",\"eq\",\"No\",\"No\"]]]",
+        "id": "c9a974c90cb64d25b2b32073a4a484cc",
+        "mandatory": "[[[\"sold_elsewhere\",\"eq\",\"Yes\",\"Yes\"]]]",
+        "order": "0",
+        "owner": "00000000000000000000000000000000",
+        "readonly": "[]",
+        "schema_version": "0",
+        "should_hidden": "1",
+        "should_mandatory": "1",
+        "should_readonly": "0",
+        "slot": "date_sold",
+        "system_updated": "0"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "navigator_item_list": {
+      "2bb4fd6daee34aeda5a67983fbce94d6": {
+        "bucket": "invention_disclosure",
+        "condition": "[]",
+        "created": "1465054572294",
+        "icon": "align-justify",
+        "id": "2bb4fd6daee34aeda5a67983fbce94d6",
+        "label": "Inventions (All)",
+        "order": "1",
+        "owner": "00000000000000000000000000000000",
+        "parent": "7a2f7902f9084d3aa81fedc0abfd3a9c",
+        "schema_version": "0",
+        "sort_by": "created",
+        "sort_direction": "ascending",
+        "system_updated": "0"
+      }
+    }
+  }
+}

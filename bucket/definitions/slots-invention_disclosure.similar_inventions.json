@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.similar_inventions": {
+        "attributes": {
+          "placeholder_text": "Without searching, are you aware of any Sony or 3rd party products, services, patents, etc, which may be similar or relevant?  If so, please identify and give a brief description. (If not, please leave blank)"
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.similar_inventions",
+        "labels": {
+          "en": {
+            "labelp": "Similar Inventions",
+            "label": "Similar Inventions"
+          }
+        },
+        "name": "similar_inventions",
+        "type": "big_string"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "bucket_data": {
+    "slots": {
+      "related_invention.invention": {
+        "attributes": {
+          "bucket_name": "invention_disclosure"
+        },
+        "bucket": "related_invention",
+        "created": "1465068754744",
+        "labels": {
+          "en": {
+            "label": "Invention",
+            "labelp": "Invention"
+          }
+        },
+        "name": "invention",
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "choice"
+      }
+    }
+  }
+}

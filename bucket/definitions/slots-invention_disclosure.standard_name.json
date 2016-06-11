@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.standard_name": {
+        "attributes": {
+          "placeholder_text": "If this invention is related to an industry standard, please type in the Standard Name (If not, or if you don’t know, please leave blank)"
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.standard_name",
+        "labels": {
+          "en": {
+            "labelp": "Standard Names",
+            "label": "Standard Name"
+          }
+        },
+        "name": "standard_name",
+        "type": "string"
+      }
+    }
+  }
+}

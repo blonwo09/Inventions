@@ -1,0 +1,48 @@
+{
+  "bucket_data": {
+    "pages": {
+      "913ce68f92f84ac78273d5be382c0a04": {
+        "created": "1465069016916",
+        "id": "913ce68f92f84ac78273d5be382c0a04",
+        "layout": {
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_90149531a8b10b19c9271bcfc4495504"
+            ]
+          },
+          "component_90149531a8b10b19c9271bcfc4495504": {
+            "type": "component",
+            "component": "details",
+            "id": "component_90149531a8b10b19c9271bcfc4495504",
+            "name": "component_90149531a8b10b19c9271bcfc4495504",
+            "needs_subpage_target": false,
+            "attributes": {
+              "bucket": "related_invention",
+              "include_actions": "1",
+              "read_only": "false",
+              "layout": {
+                "layout": [
+                  "related_invention_title",
+                  "invention_ipd_number"
+                ],
+                "display_rules": [ ]
+              },
+              "_style": ""
+            },
+            "w": "100%",
+            "h": "100%"
+          }
+        },
+        "name": "details.default.related_invention",
+        "owner": "00000000000000000000000000000000",
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "template": ""
+      }
+    }
+  }
+}

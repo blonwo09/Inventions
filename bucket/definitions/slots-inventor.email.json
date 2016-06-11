@@ -1,0 +1,19 @@
+{
+  "bucket_data": {
+    "slots": {
+      "inventor.email": {
+        "attributes": { },
+        "bucket": "inventor",
+        "id": "inventor.email",
+        "labels": {
+          "en": {
+            "labelp": "Emails",
+            "label": "Email"
+          }
+        },
+        "name": "email",
+        "type": "email"
+      }
+    }
+  }
+}

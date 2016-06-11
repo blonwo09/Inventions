@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.economic_value_assessment": {
+        "attributes": {
+          "choices": "[{\"label\":\"Yes - I recommend preparing & filing a patent application for this invention in view of the financial cost to Sony.\",\"value\":\"Yes - I recommend preparing & filing a patent application for this invention in view of the financial cost to Sony.\"},{\"label\":\"No - I do not recommend preparing & filing a patent application for this invention in view of the financial cost to Sony?\",\"value\":\"No - I do not recommend preparing & filing a patent application for this invention in view of the financial cost to Sony?\"}]",
+          "none_option": "1"
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.economic_value_assessment",
+        "labels": {
+          "en": {
+            "labelp": "Economic Value Assessments",
+            "label": "Economic Value Assessment"
+          }
+        },
+        "name": "economic_value_assessment",
+        "type": "choice"
+      }
+    }
+  }
+}

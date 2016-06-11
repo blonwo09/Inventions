@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "buckets": {
+      "related_invention": {
+        "attributes": { },
+        "created": "1465068650376",
+        "id": "related_invention",
+        "labels": {
+          "en": {
+            "label": "Related Invention",
+            "labelp": "Related Invention"
+          }
+        },
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "records"
+      }
+    }
+  }
+}

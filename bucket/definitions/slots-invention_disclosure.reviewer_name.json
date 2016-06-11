@@ -1,0 +1,19 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.reviewer_name": {
+        "attributes": { },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.reviewer_name",
+        "labels": {
+          "en": {
+            "labelp": "Reviewer Names",
+            "label": "Reviewer Name"
+          }
+        },
+        "name": "reviewer_name",
+        "type": "string"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.joined_venture": {
+        "attributes": {
+          "choices": [
+            {
+              "label": "Yes",
+              "value": "Yes"
+            },
+            {
+              "label": "No",
+              "value": "No"
+            }
+          ],
+          "none_option": "1"
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.joined_venture",
+        "labels": {
+          "en": {
+            "labelp": "Joined Ventures",
+            "label": "Joined Venture"
+          }
+        },
+        "name": "joined_venture",
+        "type": "choice"
+      }
+    }
+  }
+}

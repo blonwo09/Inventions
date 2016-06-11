@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.designaround_difficulty_assessment": {
+        "attributes": {
+          "choices": "[{\"label\":\"Yes - A competitor would likely find it difficult to design around this invention to perform the same function\",\"value\":\"Yes - A competitor would likely find it difficult to design around this invention to perform the same function\"},{\"label\":\"No - A competitor would likely find it easy to design around this invention to perform the same function.\",\"value\":\"No - A competitor would likely find it easy to design around this invention to perform the same function.\"}]",
+          "none_option": "1"
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.designaround_difficulty_assessment",
+        "labels": {
+          "en": {
+            "labelp": "Design-Around Difficulty Assessments",
+            "label": "Design-Around Difficulty Assessment"
+          }
+        },
+        "name": "designaround_difficulty_assessment",
+        "type": "choice"
+      }
+    }
+  }
+}

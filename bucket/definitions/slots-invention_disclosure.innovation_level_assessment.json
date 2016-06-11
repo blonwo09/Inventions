@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.innovation_level_assessment": {
+        "attributes": {
+          "choices": "[{\"label\":\"Yes - This invention represents a significant innovation\",\"value\":\"Yes - This invention represents a significant innovation\"},{\"label\":\"No - This invention represents a minor innovation\",\"value\":\"No - This invention represents a minor innovation\"}]",
+          "none_option": "1"
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.innovation_level_assessment",
+        "labels": {
+          "en": {
+            "labelp": "Innovation Level Assessment",
+            "label": "Innovation Level Assessment"
+          }
+        },
+        "name": "innovation_level_assessment",
+        "type": "choice"
+      }
+    }
+  }
+}

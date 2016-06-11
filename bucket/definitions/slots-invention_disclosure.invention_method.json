@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.invention_method": {
+        "attributes": {
+          "placeholder_text": "Explain the best way or method to realize the invention - the preferred way to build, code, implement, or make it."
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.invention_method",
+        "labels": {
+          "en": {
+            "labelp": "Invention Methods",
+            "label": "Invention Method"
+          }
+        },
+        "name": "invention_method",
+        "type": "big_string"
+      }
+    }
+  }
+}

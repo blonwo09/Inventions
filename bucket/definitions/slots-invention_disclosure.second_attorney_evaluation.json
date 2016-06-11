@@ -1,0 +1,19 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.second_attorney_evaluation": {
+        "attributes": { },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.second_attorney_evaluation",
+        "labels": {
+          "en": {
+            "labelp": "Attorney Evaluations",
+            "label": "Attorney Evaluation"
+          }
+        },
+        "name": "second_attorney_evaluation",
+        "type": "big_string"
+      }
+    }
+  }
+}

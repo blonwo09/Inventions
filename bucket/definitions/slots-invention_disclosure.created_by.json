@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.created_by": {
+        "attributes": {
+          "bucket_name": "user",
+          "none_option": "1"
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.created_by",
+        "labels": {
+          "en": {
+            "labelp": "Created By",
+            "label": "Created By"
+          }
+        },
+        "name": "created_by",
+        "type": "choice"
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "bucket_data": {
+    "pages": {
+      "8564073c105c42819dacff226281b4c1": {
+        "created": "1465068463606",
+        "id": "8564073c105c42819dacff226281b4c1",
+        "layout": {
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_90149531a8b10b19c9271bcfc4495504",
+              "container_38a74ed606994e06050c02964a0aa963"
+            ]
+          },
+          "container_38a74ed606994e06050c02964a0aa963": {
+            "type": "container",
+            "w": "100%",
+            "h": "50%",
+            "contains": [
+              "component_09a494907889f1c24fa1473569acabb6",
+              "component_c46e0fafb8786209a5c6bdf97fc6580c"
+            ]
+          },
+          "component_90149531a8b10b19c9271bcfc4495504": {
+            "type": "component",
+            "component": "details",
+            "id": "component_90149531a8b10b19c9271bcfc4495504",
+            "name": "component_90149531a8b10b19c9271bcfc4495504",
+            "needs_subpage_target": false,
+            "attributes": {
+              "bucket": "attached_documents",
+              "include_actions": "1",
+              "read_only": "false",
+              "layout": {
+                "layout": [
+                  "document_name",
+                  "document_description"
+                ],
+                "display_rules": [ ]
+              },
+              "_style": ""
+            },
+            "w": "100%",
+            "h": "50%"
+          },
+          "component_c46e0fafb8786209a5c6bdf97fc6580c": {
+            "type": "component",
+            "component": "related",
+            "id": "component_c46e0fafb8786209a5c6bdf97fc6580c",
+            "name": "component_c46e0fafb8786209a5c6bdf97fc6580c",
+            "needs_subpage_target": false,
+            "attributes": {
+              "related": [
+                {
+                  "label": "Upload (record)",
+                  "value": "upload.record"
+                }
+              ],
+              "_style": ""
+            },
+            "w": "50%",
+            "h": "100%"
+          },
+          "component_09a494907889f1c24fa1473569acabb6": {
+            "type": "component",
+            "component": "attachments",
+            "id": "component_09a494907889f1c24fa1473569acabb6",
+            "name": "component_09a494907889f1c24fa1473569acabb6",
+            "needs_subpage_target": false,
+            "attributes": {
+              "_style": ""
+            },
+            "w": "50%",
+            "h": "100%"
+          }
+        },
+        "name": "details.default.attached_documents",
+        "owner": "00000000000000000000000000000000",
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "template": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "bucket_data": {
+    "navigator_item_seperator": {
+      "4e1dd211c9174e61a9fa5f4f2efb810c": {
+        "collapsible": "expanded",
+        "created": "1465255381251",
+        "icon": "",
+        "id": "4e1dd211c9174e61a9fa5f4f2efb810c",
+        "label": "Administration",
+        "order": "4",
+        "owner": "00000000000000000000000000000000",
+        "parent": "7a2f7902f9084d3aa81fedc0abfd3a9c",
+        "schema_version": "0",
+        "system_updated": "0"
+      }
+    }
+  }
+}

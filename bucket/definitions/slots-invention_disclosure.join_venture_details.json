@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.join_venture_details": {
+        "attributes": {
+          "placeholder_text": "If yes, please elaborate. Especially, please list the other companies in the joint venture."
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.join_venture_details",
+        "labels": {
+          "en": {
+            "labelp": "Join Venture Detailses",
+            "label": "Join Venture Details"
+          }
+        },
+        "name": "join_venture_details",
+        "type": "big_string"
+      }
+    }
+  }
+}

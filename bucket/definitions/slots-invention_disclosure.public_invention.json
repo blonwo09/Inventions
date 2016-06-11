@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.public_invention": {
+        "attributes": {
+          "choices": "[{\"label\":\"Yes\",\"value\":\"Yes\"},{\"label\":\"No\",\"value\":\"No\"}]",
+          "none_option": "1"
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.public_invention",
+        "labels": {
+          "en": {
+            "labelp": "Public Invention",
+            "label": "Public Invention"
+          }
+        },
+        "name": "public_invention",
+        "type": "choice"
+      }
+    }
+  }
+}

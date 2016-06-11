@@ -1,0 +1,19 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.manager_short_comments": {
+        "attributes": { },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.manager_short_comments",
+        "labels": {
+          "en": {
+            "labelp": "Manager Short Comments",
+            "label": "Manager Short Comments"
+          }
+        },
+        "name": "manager_short_comments",
+        "type": "big_string"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "slots": {
+      "inventor.department": {
+        "attributes": {
+          "bucket_name": "department"
+        },
+        "bucket": "inventor",
+        "created": "1441739005083",
+        "id": "inventor.department",
+        "labels": {
+          "en": {
+            "labelp": "Department",
+            "label": "Department"
+          }
+        },
+        "name": "department",
+        "type": "choice"
+      }
+    }
+  }
+}

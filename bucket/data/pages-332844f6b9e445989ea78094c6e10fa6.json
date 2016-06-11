@@ -1,0 +1,57 @@
+{
+  "bucket_data": {
+    "pages": {
+      "332844f6b9e445989ea78094c6e10fa6": {
+        "created": "1465066977592",
+        "id": "332844f6b9e445989ea78094c6e10fa6",
+        "layout": {
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_90149531a8b10b19c9271bcfc4495504"
+            ]
+          },
+          "component_90149531a8b10b19c9271bcfc4495504": {
+            "type": "component",
+            "component": "details",
+            "id": "component_90149531a8b10b19c9271bcfc4495504",
+            "name": "component_90149531a8b10b19c9271bcfc4495504",
+            "needs_subpage_target": false,
+            "attributes": {
+              "read_only": "false",
+              "layout": {
+                "layout": [
+                  [
+                    [
+                      "first_name"
+                    ],
+                    [
+                      "last_name"
+                    ]
+                  ],
+                  "email",
+                  "global_id",
+                  "department"
+                ],
+                "display_rules": [ ]
+              },
+              "bucket": "inventor",
+              "include_actions": "1",
+              "_style": ""
+            },
+            "w": "100%",
+            "h": "100%"
+          }
+        },
+        "name": "details.default.inventor",
+        "owner": "00000000000000000000000000000000",
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "template": ""
+      }
+    }
+  }
+}

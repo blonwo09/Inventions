@@ -1,0 +1,234 @@
+{
+  "bucket_data": {
+    "pages": {
+      "895ac5ecae86441a94156aa49a7324f7": {
+        "created": "1465054714071",
+        "id": "895ac5ecae86441a94156aa49a7324f7",
+        "layout": {
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_90149531a8b10b19c9271bcfc4495504",
+              "component_80ec7327a1fab1e1ab25b498738eaf08"
+            ]
+          },
+          "component_80ec7327a1fab1e1ab25b498738eaf08": {
+            "type": "component",
+            "component": "related",
+            "id": "component_80ec7327a1fab1e1ab25b498738eaf08",
+            "name": "component_80ec7327a1fab1e1ab25b498738eaf08",
+            "needs_subpage_target": false,
+            "attributes": {
+              "related": [
+                {
+                  "label": "Inventor (inventions)",
+                  "value": "inventor.inventions"
+                },
+                {
+                  "label": "Related Invention (invention)",
+                  "value": "related_invention.invention"
+                },
+                {
+                  "label": "Attached Documents (invention)",
+                  "value": "attached_documents.invention"
+                }
+              ],
+              "_style": ""
+            },
+            "w": "100%",
+            "h": "33%"
+          },
+          "component_90149531a8b10b19c9271bcfc4495504": {
+            "type": "component",
+            "component": "details",
+            "id": "component_90149531a8b10b19c9271bcfc4495504",
+            "name": "component_90149531a8b10b19c9271bcfc4495504",
+            "needs_subpage_target": false,
+            "attributes": {
+              "read_only": "false",
+              "layout": {
+                "layout": [
+                  [
+                    [
+                      "invention_number"
+                    ],
+                    [
+                      "status"
+                    ]
+                  ],
+                  {
+                    "type": "tabbed-section",
+                    "guid": "25d2653f1c9bf610663edb7b950e9fed",
+                    "tabs": [
+                      {
+                        "title": "Long Answers",
+                        "hide_labels": 0,
+                        "layout": [
+                          "invention_description",
+                          "problem_description",
+                          "title",
+                          "other_solution",
+                          "invention_method",
+                          "other_uses"
+                        ]
+                      },
+                      {
+                        "title": "Short Answers",
+                        "hide_labels": false,
+                        "layout": [
+                          "public_invention",
+                          [
+                            [
+                              "sold_elsewhere"
+                            ],
+                            [
+                              "date_sold"
+                            ]
+                          ],
+                          "project_name",
+                          "standard_name",
+                          "product_name",
+                          [
+                            [
+                              "working_model"
+                            ],
+                            [
+                              "model_tested"
+                            ]
+                          ],
+                          "government_contract",
+                          "government_contract_details",
+                          "joined_venture",
+                          "join_venture_details",
+                          "invention_keywords",
+                          "similar_inventions",
+                          "other_submitted"
+                        ]
+                      },
+                      {
+                        "title": "Manager Evaluation",
+                        "hide_labels": 0,
+                        "layout": [
+                          "technology_novelty_assessment",
+                          "innovation_level_assessment",
+                          "designaround_difficulty_assessment",
+                          "infringement_detection_assessment",
+                          "economic_value_assessment",
+                          "manager_short_comments",
+                          [
+                            [
+                              "manager_date_completed"
+                            ],
+                            [ ]
+                          ]
+                        ]
+                      },
+                      {
+                        "title": "Export Compliance Attorney Evaluation",
+                        "hide_labels": false,
+                        "layout": [
+                          "is_this_disclosure_export_compliance",
+                          "export_compliance_number",
+                          "reasons_for_noncompliance",
+                          "reviewer_name",
+                          [
+                            [
+                              "export_compliance_date_completed"
+                            ],
+                            [ ]
+                          ]
+                        ]
+                      },
+                      {
+                        "title": "1st Attorney Evaluation",
+                        "hide_labels": false,
+                        "layout": [
+                          "first_attorney_evaluation",
+                          "first_attorney_intials",
+                          [
+                            [
+                              "first_attorney_date_completed"
+                            ],
+                            [ ]
+                          ]
+                        ]
+                      },
+                      {
+                        "title": "Search Firm Evaluation",
+                        "hide_labels": false,
+                        "layout": [
+                          "search_firm",
+                          [
+                            [
+                              "search_firm_date_completed"
+                            ],
+                            [ ]
+                          ]
+                        ]
+                      },
+                      {
+                        "title": "2nd Attorney Evaluation",
+                        "hide_labels": false,
+                        "layout": [
+                          "second_attorney_evaluation",
+                          "second_attorney_initials",
+                          [
+                            [
+                              "second_attorney_date_completed"
+                            ],
+                            [ ]
+                          ]
+                        ]
+                      },
+                      {
+                        "title": "Outside Counsel Instructions",
+                        "hide_labels": false,
+                        "layout": [
+                          "instructions_to_oc",
+                          "outsite_counsel_initials",
+                          [
+                            [
+                              "oc_date_completed"
+                            ],
+                            [ ]
+                          ]
+                        ]
+                      },
+                      {
+                        "title": "Administrator",
+                        "hide_labels": false,
+                        "layout": [
+                          "admin_attorney_initials",
+                          "search_firm",
+                          "client_division",
+                          "created_by",
+                          "assigned_to",
+                          "assignment_group"
+                        ]
+                      }
+                    ]
+                  },
+                  "date_completed"
+                ],
+                "display_rules": [ ]
+              },
+              "bucket": "invention_disclosure",
+              "include_actions": "1",
+              "_style": ""
+            },
+            "w": "100%",
+            "h": "67%"
+          }
+        },
+        "name": "details.default.invention_disclosure",
+        "owner": "00000000000000000000000000000000",
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "template": ""
+      }
+    }
+  }
+}

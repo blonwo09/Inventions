@@ -1,0 +1,23 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.invention_description": {
+        "attributes": {
+          "placeholder_text": "Explain the details of why this invention is useful.  Please organize it along the following general format: -A short overview of the invention and how it operates -The scientific & engineering principles the invention is based on -Explain the details of how the invention works or reference attached document(s) which provides this -What is new and unique about the invention, what makes it novel"
+        },
+        "bucket": "invention_disclosure",
+        "created": "1465054462892",
+        "id": "invention_disclosure.invention_description",
+        "labels": {
+          "en": {
+            "labelp": "Detailed Description",
+            "label": "Detailed Description"
+          }
+        },
+        "name": "invention_description",
+        "system_updated": "0",
+        "type": "big_string"
+      }
+    }
+  }
+}

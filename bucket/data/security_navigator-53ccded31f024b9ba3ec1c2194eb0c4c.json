@@ -1,0 +1,18 @@
+{
+  "bucket_data": {
+    "security_navigator": {
+      "53ccded31f024b9ba3ec1c2194eb0c4c": {
+        "access": "read",
+        "created": "1465238257352",
+        "group": "cf0093e70fe64d6491c38be42278a5a5",
+        "id": "53ccded31f024b9ba3ec1c2194eb0c4c",
+        "navigator": "7a2f7902f9084d3aa81fedc0abfd3a9c",
+        "navigator_item": "2bb4fd6daee34aeda5a67983fbce94d6",
+        "order": "0",
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0"
+      }
+    }
+  }
+}

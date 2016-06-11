@@ -1,0 +1,31 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.sold_elsewhere": {
+        "attributes": {
+          "choices": [
+            {
+              "label": "Yes",
+              "value": "Yes"
+            },
+            {
+              "label": "No",
+              "value": "No"
+            }
+          ],
+          "none_option": "1"
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.sold_elsewhere",
+        "labels": {
+          "en": {
+            "labelp": "Sold Elsewhere",
+            "label": "Sold Elsewhere"
+          }
+        },
+        "name": "sold_elsewhere",
+        "type": "choice"
+      }
+    }
+  }
+}

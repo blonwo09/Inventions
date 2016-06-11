@@ -1,0 +1,24 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.title": {
+        "attributes": {
+          "placeholder_text": "Use one short statement that sums up the basic idea as in:  Bendable micro-thin TV display."
+        },
+        "bucket": "invention_disclosure",
+        "created": "1465054424359",
+        "id": "invention_disclosure.title",
+        "labels": {
+          "en": {
+            "labelp": "Titles",
+            "label": "Title"
+          }
+        },
+        "name": "title",
+        "owner": "00000000000000000000000000000000",
+        "system_updated": "0",
+        "type": "string"
+      }
+    }
+  }
+}

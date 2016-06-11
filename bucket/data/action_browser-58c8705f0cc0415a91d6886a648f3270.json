@@ -1,0 +1,198 @@
+{
+  "bucket_data": {
+    "action_browser": {
+      "58c8705f0cc0415a91d6886a648f3270": {
+        "activate_behavior": "show_hide",
+        "activate_condition": "[[[\"status\",\"eq\",\"New\",\"New\"]]]",
+        "active": "1",
+        "bucket": "invention_disclosure",
+        "component": "details",
+        "condition": "",
+        "created": "1465339701196",
+        "description": "",
+        "details_activate_when": "condition",
+        "details_only_show_if": "new_record||existing_record||details",
+        "enabled_condition": "",
+        "enabled_when": "",
+        "existing_record": "1",
+        "flow": [
+          {
+            "data": { },
+            "output": { },
+            "type": "box",
+            "id": "start",
+            "text": "Start",
+            "left": -58,
+            "top": -10,
+            "width": 100,
+            "height": 40,
+            "stuck": true,
+            "routes": [
+              {
+                "text": "Always",
+                "order": 0,
+                "type": "always",
+                "to": "d64c5eb13105d419dc1e0d3fe6ca1bde"
+              }
+            ]
+          },
+          {
+            "data": {
+              "name": "Set Next State",
+              "script": "$record.status = 'Manager Review';\n$record.update();",
+              "obj_name": "Set Next State",
+              "obj_type": "script",
+              "values": ""
+            },
+            "output": { },
+            "name": "script",
+            "value": "script",
+            "label": "Run Script",
+            "type": "script",
+            "text": "Set Next State",
+            "left": 182,
+            "top": 83,
+            "id": "0770aadd6282860169ecd563fdbd7336",
+            "width": 100,
+            "height": 40,
+            "routes": [
+              {
+                "text": "Success",
+                "condition": "success:eq:1:true",
+                "order": 0,
+                "type": "success",
+                "to": "a232428f6249c59b980a034bb058161a"
+              },
+              {
+                "text": "Failure",
+                "condition": "success:eq:0:false",
+                "order": 1,
+                "type": "error"
+              }
+            ]
+          },
+          {
+            "data": {
+              "name": "Set Values",
+              "values": "[[[\"status\",\"eq\",\"Manager Review\",\"Manager Review\"]]]",
+              "obj_name": "Set Status Manager Review",
+              "obj_type": "values"
+            },
+            "output": { },
+            "name": "values",
+            "value": "values",
+            "label": "Set Values",
+            "type": "values",
+            "text": "Set Status Manager Review",
+            "left": 708,
+            "top": 90,
+            "id": "f7083e1c47832d1206bb11462378dc2c",
+            "width": 100,
+            "height": 40,
+            "routes": [
+              {
+                "text": "Success",
+                "condition": "success:eq:1:true",
+                "order": 0,
+                "type": "success",
+                "to": "d64c5eb13105d419dc1e0d3fe6ca1bde"
+              },
+              {
+                "text": "Failure",
+                "condition": "success:eq:0:false",
+                "order": 1,
+                "type": "error"
+              }
+            ]
+          },
+          {
+            "data": {
+              "name": "Save",
+              "obj_name": "Save",
+              "obj_type": "save"
+            },
+            "output": { },
+            "name": "save",
+            "value": "save",
+            "label": "Save",
+            "type": "save",
+            "text": "Save",
+            "left": 76,
+            "top": -15,
+            "id": "d64c5eb13105d419dc1e0d3fe6ca1bde",
+            "width": 100,
+            "height": 40,
+            "routes": [
+              {
+                "text": "Success",
+                "condition": "success:eq:1:true",
+                "order": 0,
+                "type": "success",
+                "to": "0770aadd6282860169ecd563fdbd7336"
+              },
+              {
+                "text": "Failure",
+                "condition": "success:eq:0:false",
+                "order": 1,
+                "type": "failure"
+              }
+            ]
+          },
+          {
+            "data": {
+              "type": "parts",
+              "name": "Refresh",
+              "obj_name": "Refresh",
+              "obj_type": "navigate",
+              "parts_params": "q=[\"id\",\"eq\",\"%{$record.id}\"]"
+            },
+            "output": { },
+            "name": "navigate",
+            "value": "navigate",
+            "label": "Navigate",
+            "type": "navigate",
+            "text": "Refresh",
+            "left": 340,
+            "top": 87,
+            "id": "a232428f6249c59b980a034bb058161a",
+            "width": 100,
+            "height": 40,
+            "routes": [
+              {
+                "text": "Success",
+                "condition": "success:eq:1:true",
+                "order": 0,
+                "type": "success"
+              },
+              {
+                "text": "Failure",
+                "condition": "success:eq:0:false",
+                "order": 1,
+                "type": "error"
+              }
+            ]
+          }
+        ],
+        "group_name": "",
+        "icon": "users",
+        "id": "58c8705f0cc0415a91d6886a648f3270",
+        "key_sequence": "",
+        "label": "Submit for Review",
+        "list_activate_when": "always",
+        "list_only_show_if": "list",
+        "name": "Submit for Review",
+        "new_record": "1",
+        "order": "10",
+        "owner": "00000000000000000000000000000000",
+        "requires_write": "0",
+        "schema_version": "2.00",
+        "scope": "",
+        "symbol": "0",
+        "system_updated": "0",
+        "trigger_from_button": "1",
+        "trigger_from_key": "0",
+        "where": "middle"
+      }
+    }
+  }
+}

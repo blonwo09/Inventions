@@ -1,0 +1,24 @@
+{
+  "bucket_data": {
+    "display_rule": {
+      "0bf8fddffa53484baec06747133a050e": {
+        "active": "1",
+        "bucket": "invention_disclosure",
+        "created": "1465341926288",
+        "description": "Manager Evaluation",
+        "hidden": "[]",
+        "id": "0bf8fddffa53484baec06747133a050e",
+        "mandatory": "[[[\"status\",\"eq\",\"Manager Review\",\"Manager Review\"]]]",
+        "order": "10",
+        "owner": "00000000000000000000000000000000",
+        "readonly": "[]",
+        "schema_version": "0",
+        "should_hidden": "0",
+        "should_mandatory": "1",
+        "should_readonly": "0",
+        "slot": "manager_date_completed",
+        "system_updated": "0"
+      }
+    }
+  }
+}

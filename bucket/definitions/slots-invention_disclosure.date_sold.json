@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.date_sold": {
+        "attributes": {
+          "format_string": "MM/DD/YYYY"
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.date_sold",
+        "labels": {
+          "en": {
+            "labelp": "Date Solds",
+            "label": "Date Sold"
+          }
+        },
+        "name": "date_sold",
+        "type": "date_time"
+      }
+    }
+  }
+}

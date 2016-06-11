@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "navigator_item_list": {
+      "154f7dfb03784eeabefc649a791a94ad": {
+        "bucket": "invention_disclosure",
+        "condition": "[[[\"assigned_to\",\"eq\",\"DEFINED.id:e63a59aaa91442aab25b977dca59c85a\",\"Me\"]]]",
+        "created": "1465484699849",
+        "icon": "user",
+        "id": "154f7dfb03784eeabefc649a791a94ad",
+        "label": "My Inventions",
+        "order": "2",
+        "owner": "00000000000000000000000000000000",
+        "parent": "7a2f7902f9084d3aa81fedc0abfd3a9c",
+        "schema_version": "0",
+        "sort_by": "",
+        "sort_direction": "ascending",
+        "system_updated": "0"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.second_attorney_initials": {
+        "attributes": {
+          "placeholder_text": "Ex: Harold T. Fujii = HTF, etc."
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.second_attorney_initials",
+        "labels": {
+          "en": {
+            "labelp": "Attorney Initialse",
+            "label": "Attorney Initials"
+          }
+        },
+        "name": "second_attorney_initials",
+        "type": "string"
+      }
+    }
+  }
+}

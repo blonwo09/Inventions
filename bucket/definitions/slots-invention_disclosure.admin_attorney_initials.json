@@ -1,0 +1,19 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.admin_attorney_initials": {
+        "attributes": { },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.admin_attorney_initials",
+        "labels": {
+          "en": {
+            "labelp": "Attorney Initialses",
+            "label": "Attorney Initials"
+          }
+        },
+        "name": "admin_attorney_initials",
+        "type": "string"
+      }
+    }
+  }
+}

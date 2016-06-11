@@ -1,0 +1,50 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.status": {
+        "attributes": {
+          "choices": [
+            {
+              "label": "New",
+              "value": "New"
+            },
+            {
+              "label": "Manager Review",
+              "value": "Manager Review"
+            },
+            {
+              "label": "Export Compliance Attorney Review",
+              "value": "Export Compliance Attorney Review"
+            },
+            {
+              "label": "1st Attorney Review",
+              "value": "1st Attorney Review"
+            },
+            {
+              "label": "Search Firm",
+              "value": "Search Firm"
+            },
+            {
+              "label": "2nd Attorney Review",
+              "value": "2nd Attorney Review"
+            },
+            {
+              "label": "Complete",
+              "value": "Complete"
+            }
+          ]
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.status",
+        "labels": {
+          "en": {
+            "labelp": "Status",
+            "label": "Status"
+          }
+        },
+        "name": "status",
+        "type": "choice"
+      }
+    }
+  }
+}

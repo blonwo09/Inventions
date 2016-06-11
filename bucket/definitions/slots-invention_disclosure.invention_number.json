@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.invention_number": {
+        "attributes": {
+          "prefix": "INV"
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.invention_number",
+        "labels": {
+          "en": {
+            "labelp": "Invention Numbers",
+            "label": "Invention Number"
+          }
+        },
+        "name": "invention_number",
+        "type": "number"
+      }
+    }
+  }
+}

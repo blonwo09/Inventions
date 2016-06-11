@@ -1,0 +1,18 @@
+{
+  "bucket_data": {
+    "navigator_item_url": {
+      "74dae39a42c648d9aa14c9e63b21cf8f": {
+        "created": "1465255448325",
+        "icon": "balance-scale",
+        "id": "74dae39a42c648d9aa14c9e63b21cf8f",
+        "label": "Create New Invention",
+        "order": "0",
+        "owner": "00000000000000000000000000000000",
+        "parent": "7a2f7902f9084d3aa81fedc0abfd3a9c",
+        "schema_version": "0",
+        "system_updated": "0",
+        "url": "#/voy.inventions/home/details.default.invention_disclosure?new=true&q=[]"
+      }
+    }
+  }
+}

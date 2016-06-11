@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "slots": {
+      "attached_documents.document_description": {
+        "attributes": { },
+        "bucket": "attached_documents",
+        "created": "1465068325936",
+        "labels": {
+          "en": {
+            "label": "Document Short Description or Note",
+            "labelp": "Document Short Description or Note"
+          }
+        },
+        "name": "document_description",
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "string"
+      }
+    }
+  }
+}

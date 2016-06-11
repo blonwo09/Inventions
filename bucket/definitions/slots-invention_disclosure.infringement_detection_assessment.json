@@ -1,0 +1,31 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.infringement_detection_assessment": {
+        "attributes": {
+          "choices": [
+            {
+              "label": "Yes - Detecting a competitor who is making/using/selling this invention would be likely after reasonable investigation",
+              "value": "Yes - Detecting a competitor who is making/using/selling this invention would be likely after reasonable investigation"
+            },
+            {
+              "label": "No - Detecting a competitor who is making/using/selling this invention would be difficult or expensive",
+              "value": "No - Detecting a competitor who is making/using/selling this invention would be difficult or expensive"
+            }
+          ],
+          "none_option": "1"
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.infringement_detection_assessment",
+        "labels": {
+          "en": {
+            "labelp": "Infringement Detection Assessments",
+            "label": "Infringement Detection Assessment"
+          }
+        },
+        "name": "infringement_detection_assessment",
+        "type": "choice"
+      }
+    }
+  }
+}

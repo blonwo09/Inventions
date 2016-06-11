@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.project_name": {
+        "attributes": {
+          "placeholder_text": "If this invention is related to a project, please type in the Project Name: (If not, or if you don’t know, please leave blank)"
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.project_name",
+        "labels": {
+          "en": {
+            "labelp": "Project Names",
+            "label": "Project Name"
+          }
+        },
+        "name": "project_name",
+        "type": "string"
+      }
+    }
+  }
+}

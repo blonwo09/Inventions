@@ -1,0 +1,45 @@
+{
+  "bucket_data": {
+    "pages": {
+      "0fcdfafe48d641578ea5e3ad8cf536ce": {
+        "created": "1465068441520",
+        "id": "0fcdfafe48d641578ea5e3ad8cf536ce",
+        "layout": {
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_22afc6b7762c0593b7ad3bde9fec4fe0"
+            ]
+          },
+          "component_22afc6b7762c0593b7ad3bde9fec4fe0": {
+            "type": "component",
+            "component": "list",
+            "id": "component_22afc6b7762c0593b7ad3bde9fec4fe0",
+            "name": "component_22afc6b7762c0593b7ad3bde9fec4fe0",
+            "needs_subpage_target": false,
+            "attributes": {
+              "bucket": "attached_documents",
+              "force_condition": "[]",
+              "inline_details": "true",
+              "columns": [
+                "document_name",
+                "document_description"
+              ],
+              "_style": ""
+            },
+            "w": "100%",
+            "h": "100%"
+          }
+        },
+        "name": "list.invention_to_invention_disclosure.attached_documents",
+        "owner": "00000000000000000000000000000000",
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "template": ""
+      }
+    }
+  }
+}

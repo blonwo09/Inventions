@@ -1,0 +1,69 @@
+{
+  "bucket_data": {
+    "pages": {
+      "9ed4b611fe3146dea68e1db3fc514d7f": {
+        "created": "1465337776757",
+        "id": "9ed4b611fe3146dea68e1db3fc514d7f",
+        "layout": {
+          "component_928bd2f10fa737c9a31b55c8c142537d": {
+            "type": "component",
+            "component": "related",
+            "id": "component_928bd2f10fa737c9a31b55c8c142537d",
+            "name": "component_928bd2f10fa737c9a31b55c8c142537d",
+            "needs_subpage_target": false,
+            "attributes": {
+              "related": [
+                {
+                  "label": "User groups (user_id)",
+                  "value": "user_to_group.user_id"
+                }
+              ],
+              "_style": ""
+            },
+            "w": "100%",
+            "h": "50%"
+          },
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_90149531a8b10b19c9271bcfc4495504",
+              "component_928bd2f10fa737c9a31b55c8c142537d"
+            ]
+          },
+          "component_90149531a8b10b19c9271bcfc4495504": {
+            "type": "component",
+            "component": "details",
+            "id": "component_90149531a8b10b19c9271bcfc4495504",
+            "name": "component_90149531a8b10b19c9271bcfc4495504",
+            "needs_subpage_target": false,
+            "attributes": {
+              "read_only": "false",
+              "bucket": "user",
+              "layout": {
+                "layout": [
+                  "first_name",
+                  "last_name",
+                  "user_id",
+                  "password"
+                ],
+                "display_rules": [ ]
+              },
+              "include_actions": "1",
+              "_style": ""
+            },
+            "w": "100%",
+            "h": "50%"
+          }
+        },
+        "name": "details.default.user",
+        "owner": "00000000000000000000000000000000",
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "template": ""
+      }
+    }
+  }
+}

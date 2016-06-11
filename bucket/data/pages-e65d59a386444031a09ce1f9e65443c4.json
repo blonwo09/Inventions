@@ -1,0 +1,50 @@
+{
+  "bucket_data": {
+    "pages": {
+      "e65d59a386444031a09ce1f9e65443c4": {
+        "created": "1465340534312",
+        "id": "e65d59a386444031a09ce1f9e65443c4",
+        "layout": {
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_36f97ae09f78bbea9ce67f61006c2dac"
+            ]
+          },
+          "component_36f97ae09f78bbea9ce67f61006c2dac": {
+            "type": "component",
+            "component": "list",
+            "id": "component_36f97ae09f78bbea9ce67f61006c2dac",
+            "name": "component_36f97ae09f78bbea9ce67f61006c2dac",
+            "needs_subpage_target": false,
+            "attributes": {
+              "bucket": "display_rule",
+              "columns": [
+                "description",
+                "bucket",
+                "slot",
+                "active",
+                "order",
+                "bundle",
+                "updated"
+              ],
+              "force_condition": "[]",
+              "inline_details": "true",
+              "_style": ""
+            },
+            "w": "100%",
+            "h": "100%"
+          }
+        },
+        "name": "list.default.display_rule",
+        "owner": "00000000000000000000000000000000",
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "template": ""
+      }
+    }
+  }
+}

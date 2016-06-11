@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.technology_novelty_assessment": {
+        "attributes": {
+          "choices": "[{\"label\":\"Yes - This invention is in a new, advancing technology field\",\"value\":\"Yes - This invention is in a new, advancing technology field\"},{\"label\":\"No - This invention is in a mature technology field\",\"value\":\"No - This invention is in a mature technology field\"}]",
+          "none_option": "1"
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.technology_novelty_assessment",
+        "labels": {
+          "en": {
+            "labelp": "Technology Novelty Assessments",
+            "label": "Technology Novelty Assessment"
+          }
+        },
+        "name": "technology_novelty_assessment",
+        "type": "choice"
+      }
+    }
+  }
+}

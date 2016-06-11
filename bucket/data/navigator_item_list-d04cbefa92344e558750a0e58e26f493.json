@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "navigator_item_list": {
+      "d04cbefa92344e558750a0e58e26f493": {
+        "bucket": "user",
+        "condition": "[]",
+        "created": "1465255310578",
+        "icon": "",
+        "id": "d04cbefa92344e558750a0e58e26f493",
+        "label": "Users",
+        "order": "5",
+        "owner": "00000000000000000000000000000000",
+        "parent": "7a2f7902f9084d3aa81fedc0abfd3a9c",
+        "schema_version": "0",
+        "sort_by": "",
+        "sort_direction": "ascending",
+        "system_updated": "0"
+      }
+    }
+  }
+}

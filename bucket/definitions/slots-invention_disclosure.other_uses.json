@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.other_uses": {
+        "attributes": {
+          "placeholder_text": "Are there uses for the invention outside of the primary problem it is meant to solve?  Please describe these uses."
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.other_uses",
+        "labels": {
+          "en": {
+            "labelp": "Other Useses",
+            "label": "Other Uses"
+          }
+        },
+        "name": "other_uses",
+        "type": "big_string"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "bucket_data": {
+    "display_rule": {
+      "203b9b9686374ae0a34119ffc010dae6": {
+        "active": "1",
+        "bucket": "invention_disclosure",
+        "created": "1465340690059",
+        "description": "Submit Invention",
+        "hidden": "[]",
+        "id": "203b9b9686374ae0a34119ffc010dae6",
+        "mandatory": "[]",
+        "order": "0",
+        "owner": "00000000000000000000000000000000",
+        "readonly": "[]",
+        "schema_version": "0",
+        "should_hidden": "0",
+        "should_mandatory": "1",
+        "should_readonly": "0",
+        "slot": "problem_description",
+        "system_updated": "0"
+      }
+    }
+  }
+}

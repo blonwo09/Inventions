@@ -1,0 +1,19 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.instructions_to_oc": {
+        "attributes": { },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.instructions_to_oc",
+        "labels": {
+          "en": {
+            "labelp": "Instructions to OC",
+            "label": "Instructions to OC"
+          }
+        },
+        "name": "instructions_to_oc",
+        "type": "big_string"
+      }
+    }
+  }
+}

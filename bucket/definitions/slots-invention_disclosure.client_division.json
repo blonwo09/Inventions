@@ -1,0 +1,19 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.client_division": {
+        "attributes": { },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.client_division",
+        "labels": {
+          "en": {
+            "labelp": "Client Division",
+            "label": "Client Division"
+          }
+        },
+        "name": "client_division",
+        "type": "string"
+      }
+    }
+  }
+}

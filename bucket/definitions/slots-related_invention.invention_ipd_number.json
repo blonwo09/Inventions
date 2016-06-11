@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "slots": {
+      "related_invention.invention_ipd_number": {
+        "attributes": { },
+        "bucket": "related_invention",
+        "created": "1465068700406",
+        "labels": {
+          "en": {
+            "label": "Invention IPD Number (If Known)",
+            "labelp": "Invention IPD Numbers (If Known)"
+          }
+        },
+        "name": "invention_ipd_number",
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "string"
+      }
+    }
+  }
+}

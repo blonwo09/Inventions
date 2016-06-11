@@ -1,0 +1,18 @@
+{
+  "bucket_data": {
+    "navigator_item_url": {
+      "1f477e87cec6460eaabd906793fbcfd1": {
+        "created": "1465254953586",
+        "icon": "question",
+        "id": "1f477e87cec6460eaabd906793fbcfd1",
+        "label": "Help",
+        "order": "3",
+        "owner": "00000000000000000000000000000000",
+        "parent": "7a2f7902f9084d3aa81fedc0abfd3a9c",
+        "schema_version": "0",
+        "system_updated": "0",
+        "url": "#/voy.inventions/home/details.default.invention_disclosure?s=created&q=[\"id\",\"eq\",\"79625f333aa34ec481d1e6026395ae1a\"]"
+      }
+    }
+  }
+}

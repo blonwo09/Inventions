@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.oc_date_completed": {
+        "attributes": {
+          "format_string": "MM/DD/YYYY"
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.oc_date_completed",
+        "labels": {
+          "en": {
+            "labelp": "Date Completed",
+            "label": "Date Completed"
+          }
+        },
+        "name": "oc_date_completed",
+        "type": "date_time"
+      }
+    }
+  }
+}

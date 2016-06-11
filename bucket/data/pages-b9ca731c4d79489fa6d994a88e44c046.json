@@ -1,0 +1,67 @@
+{
+  "bucket_data": {
+    "pages": {
+      "b9ca731c4d79489fa6d994a88e44c046": {
+        "created": "1465255621079",
+        "id": "b9ca731c4d79489fa6d994a88e44c046",
+        "layout": {
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_90149531a8b10b19c9271bcfc4495504",
+              "component_8840e95209492c65cb0648655c4b740f"
+            ]
+          },
+          "component_8840e95209492c65cb0648655c4b740f": {
+            "type": "component",
+            "component": "related",
+            "id": "component_8840e95209492c65cb0648655c4b740f",
+            "name": "component_8840e95209492c65cb0648655c4b740f",
+            "needs_subpage_target": false,
+            "attributes": {
+              "related": [
+                {
+                  "label": "Users in group (group_id)",
+                  "value": "user_to_group.group_id"
+                }
+              ],
+              "_style": ""
+            },
+            "w": "100%",
+            "h": "37%"
+          },
+          "component_90149531a8b10b19c9271bcfc4495504": {
+            "type": "component",
+            "component": "details",
+            "id": "component_90149531a8b10b19c9271bcfc4495504",
+            "name": "component_90149531a8b10b19c9271bcfc4495504",
+            "needs_subpage_target": false,
+            "attributes": {
+              "read_only": "false",
+              "layout": {
+                "layout": [
+                  "name",
+                  "group_id"
+                ],
+                "display_rules": [ ]
+              },
+              "bucket": "group",
+              "include_actions": "1",
+              "_style": ""
+            },
+            "w": "100%",
+            "h": "63%"
+          }
+        },
+        "name": "details.default.group",
+        "owner": "00000000000000000000000000000000",
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "template": ""
+      }
+    }
+  }
+}

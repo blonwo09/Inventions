@@ -1,0 +1,26 @@
+{
+  "bucket_data": {
+    "slots": {
+      "group.application": {
+        "attributes": {
+          "choices": [
+            {
+              "label": "Invention Disclosure",
+              "value": "Invention Disclosure"
+            }
+          ]
+        },
+        "bucket": "group",
+        "id": "group.application",
+        "labels": {
+          "en": {
+            "labelp": "Applications",
+            "label": "Application"
+          }
+        },
+        "name": "application",
+        "type": "choice"
+      }
+    }
+  }
+}

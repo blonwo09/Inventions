@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "slots": {
+      "invention_disclosure.problem_description": {
+        "attributes": {
+          "placeholder_text": "Describe the problem the invention solves and how the invention solves it."
+        },
+        "bucket": "invention_disclosure",
+        "id": "invention_disclosure.problem_description",
+        "labels": {
+          "en": {
+            "labelp": "Problem Descriptions",
+            "label": "Problem Description"
+          }
+        },
+        "name": "problem_description",
+        "type": "big_string"
+      }
+    }
+  }
+}
